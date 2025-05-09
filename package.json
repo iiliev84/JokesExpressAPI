@@ -1,7 +1,7 @@
 {
   "name": "jokesexpressapi",
   "version": "1.0.0",
-  "description": "",
+  "description": "🛠️ Project Setup (from Scratch)",
   "main": "server.js",
   "type": "module",
   "scripts": {
